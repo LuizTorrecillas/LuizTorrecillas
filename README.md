@@ -2,10 +2,10 @@
 
 ###  About Me
 
-🌱 **Currently Expanding**: Python Web Development & Data Analytics  
-🤝 Looking to join a team as a **Tech Intern** to contribute, learn, and grow soft skills
+**Currently Expanding**: Python Web Development & Data Analytics  
+Looking to join a team as a **Tech Intern** to contribute, learn, and grow soft skills
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luiz-torrecillas" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 
 <p>
