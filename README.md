@@ -25,23 +25,4 @@ Looking to join a team as a **Tech Intern** to contribute, learn, and grow soft 
   <a href="mailto:luizhtrm@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
 
-###  GitHub Stats
-
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=luiztorrecillas&show_icons=true&theme=tokyonight&title_color=00ccb4&icon_color=00ccb4&hide_border=true&bg_color=00000000&count_private=true"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=luiztorrecillas&layout=compact&theme=tokyonight&title_color=00ccb4&icon_color=00ccb4&hide_border=true&bg_color=00000000&langs_count=8"
-  />
